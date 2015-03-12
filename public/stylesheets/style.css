@@ -19,7 +19,12 @@ body {
   height: 60px;
   background-color: #f5f5f5;
 }
- 
+/*.col-md-9,li {
+  float:right;
+}*/
+/*li {
+  display:inline-block;
+}*/
  
 /* Custom page CSS
 -------------------------------------------------- */
